@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture_net</folder>
+	<filename>8b371b9ee77e569d9c6b331648be8041.jpg</filename>
+	<path>D:\sxdx\ZDSC\road_water - 副本\picture_net\8b371b9ee77e569d9c6b331648be8041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>603</ymin>
+			<xmax>1097</xmax>
+			<ymax>1169</ymax>
+		</bndbox>
+	</object>
+</annotation>

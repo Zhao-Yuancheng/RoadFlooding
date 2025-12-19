@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>firc_water288.jpg</filename>
+	<path>D:\sxdx\ZDSC\waterToPuddle\mydata\images\firc_water288.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>329</width>
+		<height>247</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>182</ymin>
+			<xmax>329</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image52_jpeg.rf.336cc857d4c4fe548ac110b7a2fd7996.jpg</filename>
+	<path>D:\Dataset\All\路面积水\puddles-potholes-not-from-car-view.v3i.voc\Dataset\images\train\image52_jpeg.rf.336cc857d4c4fe548ac110b7a2fd7996.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>245</ymin>
+			<xmax>640</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

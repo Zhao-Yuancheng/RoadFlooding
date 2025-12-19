@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>KakaoTalk_20230303_155122839_mp4-3_jpg.rf.a149a5e2be2fd10dd07e6c31425878a1.jpg</filename>
+	<path>D:\Dataset\All\路面积水\puddles-potholes-not-from-car-view.v3i.voc\Dataset\images\train\KakaoTalk_20230303_155122839_mp4-3_jpg.rf.a149a5e2be2fd10dd07e6c31425878a1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>115</ymin>
+			<xmax>640</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

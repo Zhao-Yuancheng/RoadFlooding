@@ -1,0 +1,26 @@
+<annotation>
+	<folder>demo</folder>
+	<filename>16706.jpg</filename>
+	<path>D:\sxdx\ZDSC\waterToPuddle\upload\demo\16706.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>396</ymin>
+			<xmax>1540</xmax>
+			<ymax>1063</ymax>
+		</bndbox>
+	</object>
+</annotation>

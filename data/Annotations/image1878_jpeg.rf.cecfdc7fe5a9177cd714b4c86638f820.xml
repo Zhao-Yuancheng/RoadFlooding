@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image1878_jpeg.rf.cecfdc7fe5a9177cd714b4c86638f820.jpg</filename>
+	<path>image1878_jpeg.rf.cecfdc7fe5a9177cd714b4c86638f820.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>252</xmin>
+			<xmax>568</xmax>
+			<ymin>284</ymin>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

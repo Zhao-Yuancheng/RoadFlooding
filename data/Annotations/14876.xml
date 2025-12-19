@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>KakaoTalk_20230109_163817587_mp4-1_jpg.rf.11743ea19679f6a45e3092d08068b67b.jpg</filename>
+	<path>KakaoTalk_20230109_163817587_mp4-1_jpg.rf.11743ea19679f6a45e3092d08068b67b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>8</xmin>
+			<xmax>636</xmax>
+			<ymin>116</ymin>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

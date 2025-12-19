@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>17010.jpg</filename>
+	<path>D:\sxdx\ZDSC\puddle_dataset\images\17010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>132</ymin>
+			<xmax>1150</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

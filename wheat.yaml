@@ -1,0 +1,8 @@
+train: data/train.txt  # train,val,test的路径根据自己情况而定
+val: data/val.txt
+test: data/test.txt
+
+nc: 1 # 填写类别数
+
+names: ['annotations']  # 要和voc_label.py中的类别数目顺序一模一样
+

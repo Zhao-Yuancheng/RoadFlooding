@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>暴雨后 天津车流 道路两边水深 中间高.mp4_20241017_160135.848.jpg</filename>
+	<path>D:\sxdx\ZDSC\waterToPuddle\images\暴雨后 天津车流 道路两边水深 中间高.mp4_20241017_160135.848.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>643</ymin>
+			<xmax>1920</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>779</ymin>
+			<xmax>416</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>860</ymin>
+			<xmax>516</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

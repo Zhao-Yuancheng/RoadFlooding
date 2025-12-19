@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image1461_jpeg.rf.450b6b88418f9194d1ccb6dc49a37540.jpg</filename>
+	<path>image1461_jpeg.rf.450b6b88418f9194d1ccb6dc49a37540.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>480</xmax>
+			<ymin>134</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

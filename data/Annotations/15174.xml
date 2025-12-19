@@ -1,0 +1,26 @@
+<annotation>
+	<folder>路面积水</folder>
+	<filename>133.jpg</filename>
+	<path>C:\Users\10602\Desktop\picture\路面积水\133.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4672</width>
+		<height>7008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puddle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>5286</ymin>
+			<xmax>3694</xmax>
+			<ymax>7008</ymax>
+		</bndbox>
+	</object>
+</annotation>
